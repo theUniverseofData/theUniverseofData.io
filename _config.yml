@@ -122,7 +122,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/theUniverseofData/"
     - label: "linkedin"
-      icon: "fas fa-fw fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/jezabel-r-garcia-496689b6/"
     - label: "stackoverflow"
       icon: "fas fa-fw fa-stackoverflow"
