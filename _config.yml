@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Jezabel R. Garcia"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/newpic.jpg"
   bio              : "Data Science Portafolio"
   location         : "World Warrior"
   email            : "jezabel.rg@gmail.com"
@@ -118,18 +118,15 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/theUniverseofData/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
     - label: "linkedin"
       icon: "fas fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/jezabel-r-garcia-496689b6/"
+    - label: "stackoverflow"
+      icon: "fas fa-fw fa-stackoverflow"
+      #url: "https://www.linkedin.com/in/jezabel-r-garcia-496689b6/" Some day, next year
 
 # Site Footer
 footer:
