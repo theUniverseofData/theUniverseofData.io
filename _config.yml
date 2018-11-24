@@ -123,10 +123,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/theUniverseofData/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "linkedin"
+      icon: "fab fa-fw linkedin"
+      url: "https://www.linkedin.com/in/jezabel-r-garcia-496689b6/"
 
 # Site Footer
 footer:
