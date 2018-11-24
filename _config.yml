@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "The Universe of Data"
 title_separator          : "-"
 name                     : "Jezabel R. Garcia"
-description              : "Jezabel Data Science Portafolio"
+description              : "Jezabel's Data Science Portafolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -128,7 +128,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "linkedin"
-      icon: "fab fa-fw fa-linkedin-in"
+      icon: "fas fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/jezabel-r-garcia-496689b6/"
 
 # Site Footer
